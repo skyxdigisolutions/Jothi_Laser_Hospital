@@ -259,7 +259,7 @@
     }
 }
 
-.carousel-caption {
+/* .carousel-caption {
     top: 0;
     left: 0;
     right: 0;
@@ -268,7 +268,7 @@
     align-items: center;
     background: rgba(3, 27, 78, .3);
     z-index: 1;
-}
+} */
 
 .carousel-control-prev,
 .carousel-control-next {
